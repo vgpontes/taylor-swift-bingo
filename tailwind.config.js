@@ -17,6 +17,7 @@ export default {
       },
       fontSize: {
         "64": 64,
+        "5xl": 100,
         "10xl": 240
       }
     },
