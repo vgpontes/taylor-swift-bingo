@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: Inlander;
+    font-weight: 400;
+    src: url(/src/assets/fonts/InlanderRegular.otf) format("opentype");
+  }
+}
